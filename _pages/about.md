@@ -18,7 +18,7 @@ Conquering Machine & Deep Learning
 =====
 Step 0 : Pre-requisites [ 2-6 months ]
 
-* Basics of \| Maths | Python | Statics | Machine Learning |
+* Basics of \| Maths \| Python \| Statics \| Machine Learning \|
 
 Step 1 : Setup your Machine
 
@@ -26,18 +26,18 @@ Step 1 : Setup your Machine
 
 Step 2 : A Shallow Dive into libraries [ 1-3 weeks ]
 
-* |Caffe | DeepLearning4j | Tensorflow | Theano | Torch | .......and more |
+* \| Caffe \| DeepLearning4j \| Tensorflow \| Theano \| Torch \| .......and more \|
 
 Step 3 : Choose your own Adventure / Field! [ 1-2 months ]
 
-* | Computer Vision | Natural Language Processing | Speech / Audio | Reinforcment Learning | ... For more details follow this awesome deep learning project ideas 
+* \| Computer Vision \| Natural Language Processing \| Speech / Audio \| Reinforcment Learning \| ... For more details follow this awesome deep learning project ideas 
 
 Step 4 : Deep Dive into Deep Learning [ never ending ]
 
-* Participate in competitions | kaggle | 
-* Follow recent research | re-work |
+* Participate in competitions [kaggle]
+* Follow recent research [re-work]
 
-References: | 5-tips | 
+References: \| [5-tips]() \| 
 
 Getting started
 ======
