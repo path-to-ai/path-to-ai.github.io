@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Motivation & Learning Path"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+"Humans vs. machines is not a helpful framing. Most people working on medical applications of AI are not trying to replace doctors; they are trying to create tools that will allow doctors to be more accurate and more efficient, improving quality of care. And this should be applied to most industries, not just medical."  -- [Sebastian Raschka] (https://sebastianraschka.com/)
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+ML/AI market will grow from $420 million in 2014 to an estimated $5.05 billion by 2020! -- credits [Udacity] (https://eu.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Mind Map Cheat Sheets: | Machine Learning | Deep Learning | -- credits [Daniel Formoso] (https://github.com/dformoso)
+
+Conquering Machine & Deep Learning
+=====
+Step 0 : Pre-requisites [ 2-6 months ]
+* Basics of | Maths | Python | Statics | Machine Learning |
+Step 1 : Setup your Machine
+* Optional to have supporting hardware, one can use AWS instance
+Step 2 : A Shallow Dive into libraries [ 1-3 weeks ]
+* |Caffe | DeepLearning4j | Tensorflow | Theano | Torch | .......and more |
+Step 3 : Choose your own Adventure / Field! [ 1-2 months ]
+* | Computer Vision | Natural Language Processing | Speech / Audio | Reinforcment Learning | ... For more details follow this awesome deep learning project ideas 
+Step 4 : Deep Dive into Deep Learning [ never ending ]
+* Participate in competitions | kaggle | 
+* Follow recent research | re-work |
+References: | 5-tips | 
 
 Getting started
 ======
