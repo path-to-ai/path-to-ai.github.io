@@ -10,7 +10,7 @@ redirect_from:
 
 "Humans vs. machines is not a helpful framing. Most people working on medical applications of AI are not trying to replace doctors; they are trying to create tools that will allow doctors to be more accurate and more efficient, improving quality of care. And this should be applied to most industries, not just medical."  -- [Sebastian Raschka](https://sebastianraschka.com/)
 
-ML/AI market will grow from \$420 million in 2014 to an estimated \$5.05 billion by 2020! -- credits [Udacity](https://eu.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+ML/AI market will grow from $420 million in 2014 to an estimated $5.05 billion by 2020! -- credits [Udacity](https://eu.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
 
 Mind Map Cheat Sheets: [Machine Learning] [Deep Learning] -- credits [Daniel Formoso](https://github.com/dformoso)
 
